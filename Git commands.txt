@@ -1,0 +1,64 @@
+    1  git clone git@github.com:Sridharnatani/TerrafromSN.git
+    2  ls
+    3  cd TerrafromSN/
+    4  git status
+    5  git add .
+    6  git status
+    7  git commit -m "Welcome to git training"
+    8  git push
+    9  git push
+   10  git push origin main
+   11  git status
+   12  git push
+   13  echo "# TerrafromSN" >> README.md
+   14  git init
+   15  git add README.md
+   16  git commit -m "first commit"
+   17  git branch -M main
+   18  git remote add origin git@github.com:Sridharnatani/TerrafromSN.git
+   19  git push -u origin main
+   20  git init
+   21  git add README.md
+   22  git status
+   23  git commit -m "first commit"
+   24  git config --global user.email "sridhar.natani@gmail.com"
+   25  git config --global user.name "Sridharnatani"
+   26  git push
+   27  git branch -M main
+   28  git remote add origin git@github.com:Sridharnatani/TerrafromSN.git
+   29  git push -u origin main
+   30  cd ..
+   31  git clone git@github.com:Sridharnatani/Sridharnatani.git
+   32  cd Sridharnatani/
+   33  ls -la
+   34  vi test.txt
+   35  git status
+   36  git add .
+   37  git status
+   38  git commit -m "test"
+   39  git push
+   40  ls -la
+   41  ls
+   42  ls
+   43  git status
+   44  git add .
+   45  git commit -m "testpushfile"
+   46  git push
+   47  git pull
+   48  ls
+   49  git checkout
+   50  git pull
+   51  git checkout -b "srinat"
+   52  ls
+   53  git status
+   54  git add
+   55  git add .
+   56  git status
+   57  git commit -m "new change"
+   58  git push
+   59  git push --set-upstream origin stinat
+   60  git push origin srinat
+   61  git checkout main
+   62  git pull
+   63  History
+   64  history
